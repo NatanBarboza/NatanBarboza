@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @NatanBarboza
-- 👀 Eu sou interessado em programação 
+- 👀 Eu gosto de programação 
 - 🌱 Atualmente estou aprendendo python
 - 📫 Meu email é natanbarboza084@gmail.com e meu linkedin é linkedin.com/in/natan-barboza-570234214
 
