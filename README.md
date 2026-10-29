@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Tenho mais de 4 anos de experiência em tecnologia, com foco em infraestrutura, redes e automação. Hoje atuo como Analista de Redes no **Grupo Digna**, cuidando de conectividade, segurança e administração de usuários e recursos no Google Workspace.
+Tenho mais de 4 anos de experiência em tecnologia, com foco em infraestrutura, redes e automação. Hoje atuo como Analista de Redes, cuidando de conectividade, segurança e administração de usuários e recursos no Google Workspace.
 
 - 🔭 Atualmente: [o que você está estudando/construindo agora]
 - 🌱 Estudando: [tema ou tecnologia]
