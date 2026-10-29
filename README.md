@@ -10,7 +10,7 @@
 Tenho mais de 4 anos de experiência em tecnologia, com foco em infraestrutura, redes e automação. Hoje atuo como Analista de Redes, cuidando de conectividade, segurança e administração de usuários e recursos no Google Workspace.
 
 - 🌱 Estudando: aws, docker, kubernetes
-- 🤝 Aberto a colaborar em: [projetos de automação, redes, infraestrutura, etc.]
+- 🤝 Aberto a colaborar em: projetos com python, cloud, servidores e infraestrutura
 - 💬 Pergunte-me sobre: Redes, Linux, Proxmox, FortiGate, SD-WAN e automação com Python
 
 ---
